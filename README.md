@@ -2,7 +2,7 @@
 
 ## Steps to setup app
 
-1. Make sure you have [Python3.7]() and [pip]() installed.
+1. Make sure you have [Python3.7](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/) installed.
 1. *(Optional)* Create a new virtual environment: `python3.7 -m venv venv`, and activate it `source venv/bin/activate`
 1. Install required packages (rx and tornado): `pip install -r requirements.txt`
 
